@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <title>Day Info</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'start.css' %}">
+</head>
+<body>
+
+<div class="wrapper">
+
+
+        <div class="one column">
+            <div class="wrapper_info">
+                <div class="title">
+                    <h1>Summary for {{ date_time }}</h1>
+                </div>
+                <div class="info">
+                    <h2>BTC</h2>
+                    <p>BTC Cost: {{ data.btc }}</p>
+                </div>
+                <div class="info">
+                    <h2>ETH</h2>
+                    <p>ETH Cost: {{ data.eth }}</p>
+                </div>
+                <div class="info">
+                    <h2>Index</h2>
+                    <p>Bitcoin Fear and Greed Index: {{ data.index }}</p>
+                </div>
+                <div class="info">
+                    <h2>Weather</h2>
+                    <p>Day Temperature: {{ data.temperature }}</p><br/>
+                    <p>Today Weather: {{ data.weather }}</p>
+                </div>
+                <div class="info">
+                    <h2>Fortune prediction</h2>
+                    <p>{{ data.fortune }}</p>
+                </div>
+                <div class="info">
+                    <h1>Have a nice day!!!</h1>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="two column">
+
+            <img src="../../static/column_img.jpg" alt="Photo" style="width: 100%">
+
+        </div>
+
+
+
+</div>
+</body>
+</html>
