@@ -1,0 +1,374 @@
+1616197186145	geckodriver	INFO	Listening on 127.0.0.1:59363
+1616197189154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofilelurgTy"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616197191075	Marionette	INFO	Listening on port 59380
+1616197191171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofile3QvoY4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616197298153	Marionette	INFO	Listening on port 59961
+1616197298432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Listening on 127.0.0.1:62846
+1616198277375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileM4FeBg"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616198279223	Marionette	INFO	Listening on port 62866
+1616198279394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileqFou96"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616198550813	Marionette	INFO	Listening on port 63729
+1616198551104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofilewHPf9k"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616198788869	Marionette	INFO	Listening on port 64302
+1616198789093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+efox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofilehv7uBC"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616198937102	Marionette	INFO	Listening on port 64960
+1616198937338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileiInEos"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616199294675	Marionette	INFO	Listening on port 49692
+1616199294900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileMy6KkN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616199308356	Marionette	INFO	Listening on port 49804
+1616199308571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileWMuKKl"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616199356142	Marionette	INFO	Listening on port 50058
+1616199356421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileSLuTiO"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616199510499	Marionette	INFO	Listening on port 50678
+1616199510760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Listening on 127.0.0.1:54551
+1616200855701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileg4t9AC"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616200856937	Marionette	INFO	Listening on port 54562
+1616200857222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628&cookie=ID%3D6f18c40cfa73cffc-22bd8034d6ba00d8%3AT%3D1616200867%3AS%3DALNI_MZzHoG66nw4BJhmUbmBz5p4z0ZmPw, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 20: TypeError: r.WeakMap is not a constructor
+1616200873258	Marionette	INFO	Stopped listening on port 54562
+JavaScript error: , line 0: uncaught exception: undefined
+1616201203314	geckodriver	INFO	Listening on 127.0.0.1:55691
+1616201206795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofilekYWZA3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616201208028	Marionette	INFO	Listening on port 55708
+1616201208312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616201221204	Marionette	INFO	Stopped listening on port 55708
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://sinoptik.ua/%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%BA%D0%B8%D0%B5%D0%B2 line 1 > injectedScript, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+1616201493873	geckodriver	INFO	Listening on 127.0.0.1:56759
+1616201496885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofilebyJMhp"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616201498700	Marionette	INFO	Listening on port 56771
+1616201498903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616201511916	Marionette	INFO	Stopped listening on port 56771
+JavaScript error: , line 0: uncaught exception: undefined
+1616227244323	geckodriver	INFO	Listening on 127.0.0.1:64701
+1616227247342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileFYcZ7V"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616227249399	Marionette	INFO	Listening on port 64724
+1616227249463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628&cookie=ID%3D9252819b658d4c4b-229e48c1d3ba00ef%3AT%3D1616227259%3ART%3D1616227259%3AS%3DALNI_MbF99-bndacMxcZBrSJZlbxxnxsOA, line 1: ReferenceError: _gfp_s_ is not defined
+1616227266511	Marionette	INFO	Stopped listening on port 64721616227267211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofilees5WGs"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616227268410	Marionette	INFO	Listening on port 60018
+1616227268728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021031601.js, line 6: TypeError: A.WeakMap is not a constructor
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://m.mixadvert.com/show/load/?id=6280&id_name=QbFYT&teaser_name=YeRShja&block_name=pdsEiD&ban_teaser=&r=0.6065217047097745&host=sinoptik.ua&ref=, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628&cookie=ID%3Db3739f7230b63ead-22c43bd6d5ba003e%3AT%3D1616227276%3AS%3DALNI_MaJYn7lsl0UZfcovT0nvyYhwiyaog, line 1: ReferenceError: _gfp_s_ is not defined
+1616227285324	Marionette	INFO	Stopped listening on port 60018
+JavaScript error: , line 0: uncaught exception: undefined
+1616283940786	geckodriver	INFO	Listening on 127.0.0.1:54944
+1616283943800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofile3ORni3"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616283945896	Marionette	INFO	Listening on port 54956
+1616283945929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 20: TypeError: r.WeakMap is not a constructor
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616283958944	Marionette	INFO	Stopped listening on port 54956
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: uncaught exception: undefined
+1616284201542	geckodriver	INFO	Listening on 127.0.0.1:56052
+1616284204551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileFUxgZW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616284205784	Marionette	INFO	Listening on port 56064
+1616284206070	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628&cookie=ID%3D6514234cca751aeb-22987145d7ba005c%3AT%3D1616284215%3ART%3D1616284215%3AS%3DALNI_MalCGl3X5v36wzZh6DpC5yP9HJPxw, line 1: ReferenceError: _gfp_s_ is not defined
+1616284218148	Marionette	INFO	Stopped listening on port 56064
+JavaScript error: , line 0: uncaught exception: undefined
+1616284271106	geckodriver	INFO	Listening on 127.0.0.1:56504
+1616284274116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileEh60yw"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616284275323	Marionette	INFO	Listening on port 56518
+1616284275633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 20: TypeError: r.WeakMap is not a constructor
+1616284291606	Marionette	INFO	Stopped listening on port 56518
+1616284346605	geckodriver	INFO	Listening on 127.0.0.1:56972
+1616284349614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofilejghrNj"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616284350903	Marionette	INFO	Listening on port 56984
+1616284351131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210316/r20190131/show_ads_impl_fy2019.js, line 14: TypeError: "toString" is read-only
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021031701.js?31060502, line 6: TypeError: A.WeakMap is not a constructor
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628&cookie=ID%3D7736bf10daa11bc8-22f12753d0ba0048%3AT%3D1616284359%3ART%3D1616284359%3AS%3DALNI_MbNDI_6nzx1Ve6Ul6Uwh70ftK1KWA, line 1: ReferenceError: _gfp_s_ is not defined
+1616284365118	Marionette	INFO	Stopped listening on port 56984
+1616284378887	geckodriver	INFO	Listening on 127.0.0.1:57301
+1616284381896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileQX18T0"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616284383109	Marionette	INFO	Listening on port 57312
+1616284383412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 20: TypeError: r.WeakMap is not a constructor
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628&cookie=ID%3Da67e5b6f57f8865f-220fc64ad8ba00ca%3AT%3D1616284392%3AS%3DALNI_MaTi2w5gGEI838IvfYvEt5CD4ra8g, line 1: ReferenceError: _gfp_s_ is not defined
+1616284396097	Marionette	INFO	Stopped listening on port 57312
+JavaScript error: , line 0: uncaught exception: undefined
+1616366331936	geckodriver	INFO	Listening on 127.0.0.1:65163
+1616366334972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofiley2Zy5L"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616366337569	Marionette	INFO	Listening on port 65181
+1616366337609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 5036 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 3396 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1616366350933	Marionette	INFO	Stopped listening on port 65181
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: uncaught exception: undefined
+1616366492917	geckodriver	INFO	Listening on 127.0.0.1:49487
+1616366495930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileba1sCU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616366497330	Marionette	INFO	Listening on port 49498
+1616366497448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 766 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210316/r20190131/show_ads_impl_fy2019.js, line 14: TypeError: "toString" is read-only
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 2634 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1616366515715	Marionette	INFO	Stopped listening on port 49498
+JavaScript error: , line 0: uncaught exception: undefined
+1616367271632	geckodriver	INFO	Listening on 127.0.0.1:51170
+1616367274644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileSpjLBM"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616367276996	Marionette	INFO	Listening on port 51179
+1616367277275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628&cookie=ID%3D18177732b96fc9e4-224392f5d8ba00c6%3AT%3D1616367287%3ART%3D1616367287%3AS%3DALNI_Maae4e9fOqPcqnIAzPn5-Vrqev4EQ, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript error: https://m.mixadvert.com/show/load/?id=6138&id_name=GoSdm&teaser_name=EfbEzbq&block_name=Gyooeb&ban_teaser=382645,416759&r=0.9948528905276464&host=sinoptik.ua&ref=, line 1: SyntaxError: unexpected token: identifier
+1616367291459	Marionette	INFO	Stopped listening on port 51179
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x570018,name=PHal::Msg_UnlockScreenOrientation) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x570018,name=PHal::Msg_UnlockScreenOrientation) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616367376251	geckodriver	INFO	Listening on 127.0.0.1:51607
+1616367379262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofilevyy2Sm"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616367380642	Marionette	INFO	Listening on port 51616
+1616367380782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 467 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628&cookie=ID%3Dcb6a39168dc8c785-22df1fc8d6ba00be%3AT%3D1616367391%3ART%3D1616367391%3AS%3DALNI_Mbo9zPcRP6SkWR20oXelL8j6dwpHQ, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 7682 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1616367395006	Marionette	INFO	Stopped listening on port 51616
+JavaScript error: , line 0: uncaught exception: undefined
+1616367429981	geckodriver	INFO	Listening on 127.0.0.1:51951
+1616367432992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofile8SuJPy"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616367434875	Marionette	INFO	Listening on port 51960
+1616367435019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210316/r20190131/show_ads_impl_fy2019.js, line 14: TypeError: "toString" is read-only
+1616367448101	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616367449128	Marionette	INFO	Stopped listening on port 51960
+JavaScript error: https://sinoptik.ua/%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%BA%D0%B8%D0%B5%D0%B2 line 1 > injectedScript, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+1616371802980	geckodriver	INFO	Listening on 127.0.0.1:61560
+1616371806007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileBtlDOh"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616371808268	Marionette	INFO	Listening on port 61584
+1616371808632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 20: TypeError: r.WeakMap is not a constructor
+JavaScript warning: https://pagead2.googlesyndication.com/bg/kkn9n4GD9OXgriPD4kOG_dPH557D54jLHxFIPOGmCpU.js line 1 > eval line 497 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628&cookie=ID%3D6f928d585e560ecb-22b23943d6ba00d9%3AT%3D1616371818%3ART%3D1616371818%3AS%3DALNI_MYM-t5SYoZ8JcEKHLR7-D6Q8Q3_6g, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 20: TypeError: r.WeakMap is not a constructor
+1616371824540	Marionette	INFO	Stopped listening on port 61584
+1616371849550	geckodriver	INFO	Listening on 127.0.0.1:62044
+1616453336416	geckodriver	INFO	Listening on 127.0.0.1:60961
+1616453339429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileoTbcBb"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616453341409	Marionette	INFO	Listening on port 60970
+1616453341453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210318/r20190131/show_ads_impl_fy2019.js, line 14: TypeError: "toString" is read-only
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616453358095	Marionette	INFO	Stopped listening on port 60970
+JavaScript error: https://sinoptik.ua/%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D0%BA%D0%B8%D0%B5%D0%B2 line 1 > injectedScript, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+1616453473553	geckodriver	INFO	Listening on 127.0.0.1:61360
+1616453476564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileE0375E"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616453477817	Marionette	INFO	Listening on port 61371
+1616453478085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210318/r20190131/show_ads_impl_fy2019.js, line 14: TypeError: "toString" is read-only
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628&cookie=ID%3Db1bfbb7a9cbe54f4-22b27512d9ba001c%3AT%3D1616453488%3AS%3DALNI_MaycSJhrVdXcrZms40w8icU2DHlPw, line 1: ReferenceError: _gfp_s_ is not defined
+1616453495573	Marionette	INFO	Stopped listening on port 61371
+JavaScript error: , line 0: uncaught exception: undefined
+1616453540319	geckodriver	INFO	Listening on 127.0.0.1:61711
+1616453543330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofile1fezTA"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616453544591	Marionette	INFO	Listening on port 61723
+1616453544847	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210318/r20190131/show_ads_impl_fy2019.js, line 14: TypeError: "toString" is read-only
+1616453560980	Marionette	INFO	Stopped listening on port 61723
+JavaScript error: , line 0: uncaught exception: undefined
+1616453720741	geckodriver	INFO	Listening on 127.0.0.1:62229
+1616453723750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileH9sLmr"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616453725039	Marionette	INFO	Listening on port 62240
+1616453725266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210318/r20190131/show_ads_impl_fy2019.js, line 14: TypeError: "toString" is read-only
+JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 5057 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1616453742828	Marionette	INFO	Stopped listening on port 62240
+JavaScript error: , line 0: uncaught exception: undefined
+1616453767474	geckodriver	INFO	Listening on 127.0.0.1:62550
+1616453770483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MONEYM~1\\AppData\\Local\\Temp\\rust_mozprofileFMmtVE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616453772318	Marionette	INFO	Listening on port 62560
+1616453772501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://partner.googleadservices.com/gampad/cookie.js?domain=sinoptik.ua&callback=_gfp_s_&client=ca-pub-9597688850300628, line 1: ReferenceError: _gfp_s_ is not defined
+JavaScript warning: https://sinst.fwdcdn.com/js/1/jquery-1.10.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/show_ads.js, line 20: TypeError: r.WeakMap is not a constructor
+1616453788682	Marionette	INFO	Stopped listening on port 62560

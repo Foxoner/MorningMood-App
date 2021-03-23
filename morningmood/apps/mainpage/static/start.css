@@ -1,0 +1,46 @@
+@keyframes fade-in {
+	0% {opacity: 0; } 100% {opacity: 1; }
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    animation: fade-in 3s linear;
+    font-family: 'Bebas Neue', cursive;
+    height: 100%;
+    width: 100%;
+    font-weight: normal;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    height: 1080px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    margin-left: 25px;
+}
+.title {
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.info {
+    margin-bottom: 60px;
+}

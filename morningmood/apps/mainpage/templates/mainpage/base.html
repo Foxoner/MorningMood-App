@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <title>{% block title %}Good Day Script{% endblock %}</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'base.css' %}">
+</head>
+<body>
+    <div class="container">
+
+        <div class="today">{{ date_time }}</div>
+
+        <a href = "{% url 'start_script' %}" class="btn" role="button"
+        > Start Wonderful Day! </a>
+    </div>
+
+
+
+
+</body>
+</html>
